@@ -1,23 +1,28 @@
 # Machine Learning Engineer
 
-#### Machine Learning: Tensorflow, Keras, Scikit-learn, Pandas, NumPy
-#### Programming Language: Python(Intermidiate), SQL(Basic)
-#### Data Analysis & zisualifiation: Excel, Power BI, Matplotlib, seaborn
-#### Others: Langchain, Streamlit, FAISS
+- Machine Learning: Tensorflow, Keras, Scikit-learn, Pandas, NumPy
+- Programming Language: Python(Intermidiate), SQL(Basic)
+- Data Analysis & Visualifiation: Excel, Power BI, Matplotlib, seaborn
+- Others: Langchain, Streamlit, FAISS
 
 ## Education
-- M.S., Dat Science, AI & ML | IIIT Bengaluru (_Dec 2023_ to _Present_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Dat Science, AI & ML|IIIT Bengaluru (_Dec 2023 - Present_)								       		
+- MBA, Finance	| XLRI Jamshedpur (_Aug 2020 - Apr 2022_)	 			        		
+- BTech., Mechanical | IIT Guwahati (_Jul 2013 - Apr 2017_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Manager @ Agrawal & Co. (_Nov 2020 - Present_)**
+- Implemented a di%erencial pricing strategy to stimulate stangnating growth leading to 30% increase in revenue
+- Negotiated with stakeholders to expand portfolio of complimentary products resulting in revenue increae of 20%
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Senior Associate @ The Boston Consulting Group (_Apr 2022 - Oct 2023_)**
+- Created factory MIS for an Vz 2W manufacturer using data analytics tools to summarifie day-to-day manufacturing metrics and identi5ed pain points for low production eFciency
+- Part of cross-functional project management team to identify and implement solutions like line-balancing and automation leading to J0  increase in manufacturing eFciency
+- Integrated datasets using python libraries to identify least productive bank branches and facilitating its closure leading to 20+ crore in yearly savingsO
+
+**Maintenance Engineer @ Reliance Industries Industries (_Aug 2017 - Sep 2018_)**
+- Streamlined day-to-day maintenance activities in collaboration with other engineering teams to ensure un-inturrupted production schedule
+- Managed a team of 1J0+ contractors to plan and facilitate maintenance activity during 2 months shutdown phase
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
