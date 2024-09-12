@@ -1,9 +1,12 @@
-# Data Scientist
+# Machine Learning Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Machine Learning: Tensorflow, Keras, Scikit-learn, Pandas, NumPy
+#### Programming Language: Python(Intermidiate), SQL(Basic)
+#### Data Analysis & zisualifiation: Excel, Power BI, Matplotlib, seaborn
+#### Others: Langchain, Streamlit, FAISS
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- M.S., Dat Science, AI & ML | IIIT Bengaluru (_Dec 2023_ to _Present_)								       		
 - M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
 - B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
