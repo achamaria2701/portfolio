@@ -16,16 +16,16 @@
 - Negotiated with stakeholders to expand portfolio of complimentary products resulting in revenue increae of 20%
 
 **Senior Associate @ The Boston Consulting Group (_Apr 2022 - Oct 2023_)**
-- Created factory MIS for an Vz 2W manufacturer using data analytics tools to summarifie day-to-day manufacturing metrics and identi5ed pain points for low production eFciency
+- Created factory MIS for an Vz 2W manufacturer using data analytics tools to summarifie day-to-day manufacturing metrics and identi5ed pain points for low production efficiency
 - Part of cross-functional project management team to identify and implement solutions like line-balancing and automation leading to J0  increase in manufacturing eFciency
 - Integrated datasets using python libraries to identify least productive bank branches and facilitating its closure leading to 20+ crore in yearly savingsO
 
-**Maintenance Engineer @ Reliance Industries Industries (_Aug 2017 - Sep 2018_)**
+**Maintenance Engineer @ Reliance Industries Ltd. (_Aug 2017 - Sep 2018_)**
 - Streamlined day-to-day maintenance activities in collaboration with other engineering teams to ensure un-inturrupted production schedule
 - Managed a team of 1J0+ contractors to plan and facilitate maintenance activity during 2 months shutdown phase
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### News Research Tool (RAG)
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
