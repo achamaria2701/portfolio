@@ -6,7 +6,7 @@
 - Others: Langchain, Streamlit, FAISS
 
 ## Education
-- M.S., Data Science, AI & ML|IIIT Bengaluru (_Dec 2023 - Present_)								       		
+- M.S., Data Science, AI & ML |IIIT Bengaluru (_Dec 2023 - Present_)								       		
 - MBA, Finance	| XLRI Jamshedpur (_Aug 2020 - Apr 2022_)	 			        		
 - BTech., Mechanical | IIT Guwahati (_Jul 2013 - Apr 2017_)
 
