@@ -31,7 +31,7 @@
 - Implemented OpenAI embeddings and 4AISS for eFcient vectorifiation and storage of web page data in a vector database, ensuring fast and relevant retrieval of information
 - Built an interactive web application using Streamlit and integrated EpenAI GPT for generating accurate and context-aware answers based on the web content, improving user experience in finance research
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![News Research](/assets/img/News_Research_Tool.jpg)
 
 ### Optical Digit Recognition Web-app
 [GitHub](https://github.com/achamaria2701/digitrecognition)
