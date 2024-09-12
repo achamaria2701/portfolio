@@ -27,9 +27,9 @@
 ## Projects
 ### News Research Tool (RAG)
 [GitHub](https://github.com/achamaria2701/News-Research-Tool)
-- Developed a Retrieval-Augmented Generation(RAG) model for finance research analysts, enabling users to upload web page links and ask Kuestions about the content, enhancing productivity and research accuracy
-- Implemented OpenAI embeddings and 4AISS for eFcient vectorifiation and storage of web page data in a vector database, ensuring fast and relevant retrieval of information
-- Built an interactive web application using Streamlit and integrated EpenAI GPT for generating accurate and context-aware answers based on the web content, improving user experience in finance research
+- Developed a Retrieval-Augmented Generation(RAG) model for finance research analysts, enabling users to upload web page links and ask questions about the content, enhancing productivity and research accuracy
+- Implemented OpenAI embeddings and FAISS for eFcient vectorifiation and storage of web page data in a vector database, ensuring fast and relevant retrieval of information
+- Built an interactive web application using Streamlit and integrated OpenAI GPT for generating accurate and context-aware answers based on the web content, improving user experience in finance research
 
 ![News Research](/assets/img/News_Research_Tool.jpg)
 
