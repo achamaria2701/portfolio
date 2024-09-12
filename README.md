@@ -6,7 +6,7 @@
 - Others: Langchain, Streamlit, FAISS
 
 ## Education
-- M.S., Dat Science, AI & ML|IIIT Bengaluru (_Dec 2023 - Present_)								       		
+- M.S., Data Science, AI & ML|IIIT Bengaluru (_Dec 2023 - Present_)								       		
 - MBA, Finance	| XLRI Jamshedpur (_Aug 2020 - Apr 2022_)	 			        		
 - BTech., Mechanical | IIT Guwahati (_Jul 2013 - Apr 2017_)
 
@@ -26,8 +26,8 @@
 
 ## Projects
 ### News Research Tool (RAG)
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-- Developed a Retrieval-Augmented Generation(RAG) model for 5nance research analysts, enabling users to upload web page links and ask Kuestions about the content, enhancing productivity and research accuracy
+[GitHub](https://github.com/achamaria2701/News-Research-Tool)
+- Developed a Retrieval-Augmented Generation(RAG) model for finance research analysts, enabling users to upload web page links and ask Kuestions about the content, enhancing productivity and research accuracy
 - Implemented OpenAI embeddings and 4AISS for eFcient vectorifiation and storage of web page data in a vector database, ensuring fast and relevant retrieval of information
 - Built an interactive web application using Streamlit and integrated EpenAI GPT for generating accurate and context-aware answers based on the web content, improving user experience in finance research
 
