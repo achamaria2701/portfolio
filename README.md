@@ -39,7 +39,7 @@
 - Developed a web application using flask framework and deployed the same on AWS using Elastic Beanstalk environment and CD pipeline
 - Designed a CNN model to accurately predict a series of handwritten numbers by uploading the image on web-app
 
-![Optical Digit](/assets/img/Optical Digit.jpg)
+![News Research](/assets/img/OpticalDigit.jpg)
 
 ### Gesture Recognition
 [GitHub](https://github.com/achamaria2701/digitrecognition)
