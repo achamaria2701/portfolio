@@ -44,7 +44,7 @@
 ### Gesture Recognition
 [GitHub](https://github.com/achamaria2701/digitrecognition)
 
-- Designed a gesture recognition system with J di%erent gestured for Television using CNN and LSTM model with hyperparameter tuning to gain a final validation accuracy of 85%+
+- Designed a gesture recognition system with 5 different gestured for Television using CNN and LSTM model with hyperparameter tuning to gain a final validation accuracy of 85%+
 - Implemented a generator function to facilitate a continuous flow of test videos followed by validation videos in batches to the model for training
 
 ![Bike Study](/assets/img/bike_study.jpeg)
