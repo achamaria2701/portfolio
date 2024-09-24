@@ -11,7 +11,7 @@
 - BTech., Mechanical      |     IIT Guwahati (_Jul 2013 - Apr 2017_)
 
 ## Work Experience
-**Manager @ Agrawal & Co. (_Nov 2020 - Present_)**
+**Manager @ Agrawal & Co. (_Nov 2023 - Present_)**
 - Implemented a di%erencial pricing strategy to stimulate stangnating growth leading to 30% increase in revenue
 - Negotiated with stakeholders to expand portfolio of complimentary products resulting in revenue increae of 20%
 
