@@ -12,13 +12,13 @@
 
 ## Work Experience
 **Manager @ Agrawal & Co. (_Nov 2023 - Present_)**
-- Implemented a di%erencial pricing strategy to stimulate stangnating growth leading to 30% increase in revenue
+- Implemented a differencial pricing strategy to stimulate stangnating growth leading to 30% increase in revenue
 - Negotiated with stakeholders to expand portfolio of complimentary products resulting in revenue increae of 20%
 
 **Senior Associate @ The Boston Consulting Group (_Apr 2022 - Oct 2023_)**
-- Created factory MIS for an Vz 2W manufacturer using data analytics tools to summarifie day-to-day manufacturing metrics and identi5ed pain points for low production efficiency
-- Part of cross-functional project management team to identify and implement solutions like line-balancing and automation leading to J0  increase in manufacturing eFciency
-- Integrated datasets using python libraries to identify least productive bank branches and facilitating its closure leading to 20+ crore in yearly savingsO
+- Created factory MIS for an EV 2W manufacturer using data analytics tools to summarize day-to-day manufacturing metrics and identified pain points for low production efficiency
+- Part of cross-functional project management team to identify and implement solutions like line-balancing and automation leading to 50% increase in manufacturing effciency
+- Integrated datasets using python libraries to identify least productive bank branches and facilitating its closure leading to 20+ crore in yearly savings
 
 **Maintenance Engineer @ Reliance Industries Ltd. (_Aug 2017 - Sep 2018_)**
 - Streamlined day-to-day maintenance activities in collaboration with other engineering teams to ensure un-inturrupted production schedule
