@@ -7,7 +7,7 @@
 
 ## Education
 - M.S., Data Science, AI & ML |IIIT Bengaluru (_Dec 2023 - Present_)								       		
-- MBA, Finance	    |        XLRI Jamshedpur (_Aug 2020 - Apr 2022_)	 			        		
+- MBA, Finance_              _|XLRI Jamshedpur (_Aug 2020 - Apr 2022_)	 			        		
 - BTech., Mechanical      |     IIT Guwahati (_Jul 2013 - Apr 2017_)
 
 ## Work Experience
