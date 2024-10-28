@@ -25,6 +25,16 @@
 - Managed a team of 150+ contractors to plan and facilitate maintenance activity during 2 months shutdown phase
 
 ## Projects
+
+### Insurance Chatbot
+[GitHub](https://github.com/achamaria2701/insurancechatbot)
+- Developed an AI-driven chatbot using the ChatGPT API to interact with users and provide personalized insurance recommendations based on specific user requirements
+- Identified and implemented a framework of 7 key features for insurance products to effectively match user preferences with relevant offerings from a comprehensive insurance database
+- Designed and applied a scoring algorithm to rank filtered insurance products, delivering the top 3 most suitable options to users based on their personalized needs
+- Created an interactive, user-friendly web application using Streamlit to enhance user engagement and streamline the insurance recommendation process, improving accessibility and usability
+
+![Insurance Chatbot](/assets/img/Insurance_Chatbot_Image.jpg)
+
 ### News Research Tool (RAG)
 [GitHub](https://github.com/achamaria2701/News-Research-Tool)
 - Developed a Retrieval-Augmented Generation(RAG) model for finance research analysts, enabling users to upload web page links and ask questions about the content, enhancing productivity and research accuracy
